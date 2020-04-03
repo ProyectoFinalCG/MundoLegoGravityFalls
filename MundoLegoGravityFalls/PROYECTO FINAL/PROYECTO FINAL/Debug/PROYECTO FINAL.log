@@ -1,0 +1,19 @@
+﻿  proyecto.cpp
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(392): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(591): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(597): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(603): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(609): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(725): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(730): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(735): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(740): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(745): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(750): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(791): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(792): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(796): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(797): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(799): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\proyecto final\proyecto final\proyecto.cpp(800): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  PROYECTO FINAL.vcxproj -> C:\Users\GeorgeDRipper\source\repos\PROYECTO FINAL\Debug\PROYECTO FINAL.exe
